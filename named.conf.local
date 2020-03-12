@@ -1,0 +1,4 @@
+zone "ironsale" {
+    type master;
+    file "/etc/bind/zones/db.ironsale";
+};
